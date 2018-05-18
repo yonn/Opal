@@ -1,0 +1,17 @@
+{
+	"perl": "6",
+	"name": "opal",
+	"version": "0.1",
+	"auth": "github:yonn",
+	"description": "A modern lisp that compiles to Perl 6",
+	"license": "MIT",
+	"depends": [],
+	"provides": {},
+	"resources": [],
+	"authors": [
+		"Yogev Onn"
+	],
+	"support": {},
+	"tags": {},
+	"source-url": "https://github.com/yonn/Opal.git"
+}
