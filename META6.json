@@ -7,7 +7,9 @@
 	"license": "MIT",
 	"depends": [],
 	"provides": {
-		"Opal::CLI": "lib/Opal/CLI.pm6"
+		"Opal": "lib/Opal.pm6",
+		"Opal::CLI": "lib/Opal/CLI.pm6",
+		"Opal::Grammar": "lib/Opal/Grammar.pm6"
 	},
 	"authors": [
 		"Yogev Onn"
