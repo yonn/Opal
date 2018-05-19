@@ -13,6 +13,14 @@ package CLI {
 
 	sub usage() {
 		qq:to/END/
+		Opal - A modern lisp, that compiles to Perl 6
+
+		Usage:
+		    opal [flags]
+		
+		Flags:
+
+			-h --help  Print this document
 		END
 	}
 
